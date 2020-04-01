@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodiceFiscale</string>
+    <string name="dataNascita">Data di Nascita (gg-mm-aaaa)</string>
+    <string name="luogoNascita">Luogo di Nascita</string>
+    <string-array name="sex_array">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+</resources>
